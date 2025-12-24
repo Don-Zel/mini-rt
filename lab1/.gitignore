@@ -1,0 +1,12 @@
+# binaries
+app
+a.out
+
+# output
+result.jpg
+
+# editor
+.vscode/
+
+# macOS
+.DS_Store
